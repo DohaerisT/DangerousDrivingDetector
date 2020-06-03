@@ -56,7 +56,7 @@ six==1.13.0
 tensorboard==1.15.0
 tensorflow-cpu-estimator==1.15.1
 tensorflow-estimator==1.15.1
-tensorflow-gpu==1.15.0
+tensorflow-gpu==1.15.2
 termcolor==1.1.0
 torch==1.4.0
 torchfile==0.1.0

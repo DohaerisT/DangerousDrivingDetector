@@ -38,7 +38,7 @@ pickleshare==0.7.5
 Pillow==6.2.1
 prompt-toolkit==3.0.3
 protobuf==3.10.0
-Pygments==2.5.2
+Pygments==2.7.4
 PyInstaller==3.6
 pyparsing==2.4.5
 PyQt5==5.14.1

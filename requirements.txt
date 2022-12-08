@@ -3,7 +3,7 @@ altgraph==0.17
 astor==0.8.0
 backcall==0.1.0
 Bashutils==0.0.4
-certifi==2020.4.5.1
+certifi==2022.12.7
 chardet==3.0.4
 colorama==0.4.3
 cycler==0.10.0
